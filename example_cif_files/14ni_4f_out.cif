@@ -501,6 +501,14 @@ loop_
  C18 C17 C19 N6 10.5(18) . . . . ?
  C19 C17 C18 N5 -24.1(16) . . . . ?
 
+_cell_oxdiff_length_a                  8.4938(3) 
+_cell_oxdiff_length_b                  18.3821(4) 
+_cell_oxdiff_length_c                  13.7692(4) 
+_cell_oxdiff_angle_alpha               90.000(2) 
+_cell_oxdiff_angle_beta                106.583(3) 
+_cell_oxdiff_angle_gamma               90.020(2) 
+_cell_oxdiff_volume                    2060.43(11) 
+_cell_oxdiff_measurement_reflns_used   11559
 
 loop_
 _exptl_crystal_face_index_h
@@ -519,3 +527,77 @@ _exptl_oxdiff_crystal_face_z
    0    1    0 0.0617  0.0001  0.9994  0.0004 -0.0076 -0.0035 -0.0377
    0    0    1 0.1458 -0.0004 -0.0004  0.9999 -0.0018 -0.0534  0.0053
    0    0   -1 0.1590  0.0004  0.0004 -0.9999  0.0018  0.0534 -0.0053
+_diffrn_radiation_source 'Enhance (Mo) X-ray Source'
+_diffrn_reflns_av_sigmaI/netI 0.0727
+_diffrn_orient_matrix_UB_11      -0.0826864000
+_diffrn_orient_matrix_UB_12      -0.0075477000
+_diffrn_orient_matrix_UB_13      -0.0018021000
+_diffrn_orient_matrix_UB_21      -0.0203987000
+_diffrn_orient_matrix_UB_22      -0.0034703000
+_diffrn_orient_matrix_UB_23      -0.0534591000
+_diffrn_orient_matrix_UB_31       0.0184075000
+_diffrn_orient_matrix_UB_32      -0.0376815000
+_diffrn_orient_matrix_UB_33       0.0052780000
+_diffrn_measurement_details
+;
+#__ type_ start__ end____ width___ exp.time_
+  1 omega   74.00  101.00   1.0000   30.0000
+omega____ theta____ kappa____ phi______ frames
+    -       29.8070  179.0000   60.0000 27
+
+#__ type_ start__ end____ width___ exp.time_
+  2 omega -110.00  -59.00   1.0000   30.0000
+omega____ theta____ kappa____ phi______ frames
+    -      -31.3695 -179.0000  -60.0000 51
+
+#__ type_ start__ end____ width___ exp.time_
+  3 omega  -59.00   35.00   1.0000   30.0000
+omega____ theta____ kappa____ phi______ frames
+    -      -31.3695   38.0000    0.0000 94
+
+#__ type_ start__ end____ width___ exp.time_
+  4 omega  -67.00   30.00   1.0000   30.0000
+omega____ theta____ kappa____ phi______ frames
+    -      -31.3695    0.0000  -60.0000 97
+
+#__ type_ start__ end____ width___ exp.time_
+  5 omega  -41.00   53.00   1.0000   30.0000
+omega____ theta____ kappa____ phi______ frames
+    -       29.8070  -57.0000   90.0000 94
+
+#__ type_ start__ end____ width___ exp.time_
+  6 omega   -4.00  102.00   1.0000   30.0000
+omega____ theta____ kappa____ phi______ frames
+    -       29.8070   78.0000  120.0000 106
+
+#__ type_ start__ end____ width___ exp.time_
+  7 omega    6.00  100.00   1.0000   30.0000
+omega____ theta____ kappa____ phi______ frames
+    -       29.8070   57.0000  -30.0000 94
+
+#__ type_ start__ end____ width___ exp.time_
+  8 omega   34.00  110.00   1.0000   30.0000
+omega____ theta____ kappa____ phi______ frames
+    -       29.8070  179.0000  -30.0000 76
+
+#__ type_ start__ end____ width___ exp.time_
+  9 omega   32.00  112.00   1.0000   30.0000
+omega____ theta____ kappa____ phi______ frames
+    -       29.8070 -179.0000  120.0000 80
+
+#__ type_ start__ end____ width___ exp.time_
+ 10 omega    6.00  100.00   1.0000   30.0000
+omega____ theta____ kappa____ phi______ frames
+    -       29.8070   57.0000 -120.0000 94
+
+#__ type_ start__ end____ width___ exp.time_
+ 11 omega    6.00    8.00   1.0000   30.0000
+omega____ theta____ kappa____ phi______ frames
+    -       29.8070   57.0000   60.0000 2
+
+;
+_symmetry_space_group_name_H-M 'P 1 21/n 1'
+_symmetry_cell_setting monoclinic
+_reflns_odcompleteness_completeness		99.97
+_reflns_odcompleteness_theta		30.44
+_reflns_odcompleteness_iscentric		1

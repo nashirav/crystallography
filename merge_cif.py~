@@ -8,7 +8,7 @@ import sys
 version = "0.01"
 usage = "usage: %prog [options]\n \
 Example:\n \
-python merge_cif.py -r example_cif_files/14ni_4f_ref.cif  -e ./example_cif_files/14ni_4f_exp.cif -o ./example_cif_files/14ni_4f_out.cif"
+merge_cif.py -r example_cif_files/14ni_4f_ref.cif  -e ./example_cif_files/14ni_4f_exp.cif -o ./example_cif_files/14ni_4f_out.cif"
 
 usage_description = """Merges two files in CIF format. Tested with python 2.7.
 Files in CIF format may consist of one or more data blocks which begin with the declaration data_, but
